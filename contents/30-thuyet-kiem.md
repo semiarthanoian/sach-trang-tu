@@ -122,4 +122,4 @@ Trang tử bảo:
 Sau đó, ba tháng vua Triệu không ra khỏi cung. Các kiếm sĩ không được trọng đãi
 nữa đều tự sát hết.
 
-[Thiên 31: Ngư Phủ &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/31-ngu-phu.md)
+[Thiên 31: Ngư Phủ &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/31-ngu-phu.md)

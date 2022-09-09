@@ -188,4 +188,4 @@ nhân mà anh mắc đúng cái lỗi ấy. Vả lại, Đạo sinh ra vạn v�
 công. Cho nên thánh nhân tôn trọng Đạo, bất luận là nó ở đâu. Có thể bảo rằng
 ông lão đánh cá ấy có được cái Đạo, làm sao ta không kính ông?"
 
-[Thiên 32: Liệt Ngự Khấu &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/32-liet-ngu-khau.md)
+[Thiên 32: Liệt Ngự Khấu &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/32-liet-ngu-khau.md)

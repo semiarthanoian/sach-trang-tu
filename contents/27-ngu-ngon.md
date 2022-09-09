@@ -72,4 +72,4 @@ thuộc hình thể không? Mà chính hình thể có tuỳ thuộc cái gì kh
 qua lại, vận động, thì tôi cũng qua lại, vận động. Những qua lại, vận động đó
 đều do thiên cơ (do tự nhiên), có gì mà phải hỏi?"
 
-[Thiên 28: Nhường Ngôi &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/28-nhuong-ngoi.md)
+[Thiên 28: Nhường Ngôi &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/28-nhuong-ngoi.md)

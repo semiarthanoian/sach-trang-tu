@@ -264,4 +264,4 @@ không câu nệ, làm bổn phận mà không trốn tránh, theo pháp luật 
 loạn, dựa vào dân mà không coi thường dân, thuận theo bản tính của vạn vật, 
 việc tuy không đáng làm (về phương diện Đạo) nhưng vẫn làm (về phương diện đời).
 
-[Thiên 12: Thiên Địa &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/12-thien-dia.md)
+[Thiên 12: Thiên Địa &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/12-thien-dia.md)

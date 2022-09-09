@@ -266,4 +266,4 @@ Thánh nhân khéo theo tự nhiên mà vụng về "nhân vi" (việc người 
 người toàn đức mới vừa khéo thuận theo tự nhiên, vừa khéo việc "nhân vi". Chỉ có
 con sâu là biết hoàn toàn sống theo sâu (tuỳ thuận tự nhiên).
 
-[Thiên 24: Từ Vô Quỉ &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/24-tu-vo-qui.md)
+[Thiên 24: Từ Vô Quỉ &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/24-tu-vo-qui.md)

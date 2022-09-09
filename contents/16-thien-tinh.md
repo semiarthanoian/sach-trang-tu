@@ -69,4 +69,4 @@ tạm đó đi mà mình mất vui thì đủ biết mình có vui cũng là đ�
 Cho nên bảo: “Táng thân vì chức tước, của cải, để cho thế tục làm mất bản tính
 của mình thì là hạng người lộn ngược (đi bằng đầu).”
 
-[Thiên 17: Thu Thủy](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/17-thu-thuy.md)
+[Thiên 17: Thu Thủy](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/17-thu-thuy.md)

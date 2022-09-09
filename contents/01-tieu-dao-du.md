@@ -165,4 +165,4 @@ trong cánh đồng mênh mông, để những kẻ nhàn rỗi thơ thẩn dạ
 mát của nó? Nó không sợ bị búa rìu đốn, hoặc bị ngoại vật làm hại. Nó không dùng
 được vào việc gì, thì tai họa làm sao mà đến?"
 
-[Thiên 2: Tề Vật Luận &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/02-te-vat-luan.md)
+[Thiên 2: Tề Vật Luận &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/02-te-vat-luan.md)

@@ -124,4 +124,4 @@ vậy đó! Từ đời tam đại tới nay, đều như vậy. Dân đã bỏ 
 theo bọn cơ trí, khéo nói; bỏ thái độ điềm đạm, vô vi mà ưa cái trò dạy đời. Chỉ
 vì ham dạy đời mà thiên hạ mới loạn như vậy đó.
 
-[Thiên 11: Tại Hựu &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/11-tai-huu.md)
+[Thiên 11: Tại Hựu &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/11-tai-huu.md)

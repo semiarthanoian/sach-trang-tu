@@ -193,4 +193,4 @@ Trang Tử bảo:
 được thỏ rồi thì nên quên lưới đi. Dùng lời là để diễn ý, hiểu được ý rồi thì
 nên quên lời đi. Tôi tìm đâu được người biết quên lời để cùng đàm đạo đây?"
 
-[Thiên 27: Ngụ Ngôn &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/27-ngu-ngon.md)
+[Thiên 27: Ngụ Ngôn &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/27-ngu-ngon.md)

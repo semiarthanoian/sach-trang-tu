@@ -345,4 +345,4 @@ Trang tử bảo:
 vậy tức là ông nhận rằng tôi đã biết cái vui đó rồi. Làm sao biết tôi được ư?
 Thì đây: tôi đứng trên cầu sông Hào này mà biết được."
 
-[Thiên 18: Chí Lạc &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/18-chi-lac.md)
+[Thiên 18: Chí Lạc &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/18-chi-lac.md)

@@ -361,4 +361,4 @@ tôi nghèo? Trời che vạn vật, đất chở vạn vật, đâu có riêng 
 muốn riêng tôi nghèo? Tìm hoài nguyên nhân mà không ra. Tôi tới nỗi cực khổ như
 vầy, là do số mệnh chăng?"
 
-[Thiên 7: Ứng Đế Vương &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/07-ung-de-vuong.md)
+[Thiên 7: Ứng Đế Vương &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/07-ung-de-vuong.md)

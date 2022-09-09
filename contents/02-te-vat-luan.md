@@ -388,4 +388,4 @@ là Chu. Rồi bỗng tỉnh dậy, ngạc nhiên thấy mình là Chu. Không b
 Chu nằm mộng thấy hoá bướm hay là bướm mộng thấy hoá Chu. Trang Chu với bướm tất
 có chỗ khác nhau. Cái đó là gọi là “vật hoá”.
 
-[Thiên 3: Dưỡng Sinh Chú &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/03-duong-sinh-chu.md)
+[Thiên 3: Dưỡng Sinh Chú &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/03-duong-sinh-chu.md)

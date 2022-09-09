@@ -162,4 +162,4 @@ thanh ninh sinh ra con “trình”, con trình sinh ra con ngựa; ngựa sinh 
 người lại trở về cái “cơ”. Như vậy là vạn vật đều sinh ra từ cái “cơ”, rồi lại
 trở về với cái “cơ”.
 
-[Thiên 19: Đạt Sinh &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/19-dat-sinh.md)
+[Thiên 19: Đạt Sinh &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/19-dat-sinh.md)

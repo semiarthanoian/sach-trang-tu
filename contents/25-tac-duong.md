@@ -311,4 +311,4 @@ có nói suốt ngày cũng chỉ quanh quẩn nói về vật, làm sao mà hi�
 Cảnh giới tối cao của Đạo và vật, ngôn ngữ và trầm tư đều không thể Chở nó được.
 Không nói gì cả, cũng không trầm tư, đó là cái mức cao nhất của nghị luận.
 
-[Thiên 26: Ngoại Vật &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/26-ngoai-vat.md)
+[Thiên 26: Ngoại Vật &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/26-ngoai-vat.md)

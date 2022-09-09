@@ -440,4 +440,4 @@ Sao không hỏi đạo lí thâm diệu ấy mà cứ mê hoặc hoài vậy? �
 giải cái mê hoặc để trở về bản tính không mê hoặc, rồi sau mới đạt được cảnh
 giới "đại bất hoặc" (đạt được Đại Đạo).
 
-[Thiên 25: Tắc Dương &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/25-tac-duong.md)
+[Thiên 25: Tắc Dương &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/25-tac-duong.md)

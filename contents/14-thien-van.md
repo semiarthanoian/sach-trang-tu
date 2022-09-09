@@ -293,4 +293,4 @@ dự vào sự biến hoá của trời đất."
 Lão tử bảo:  
 "Được, ông hiểu đạo rồi đấy."
 
-[Thiên 15: Khắc Ý &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/15-khac-y.md)
+[Thiên 15: Khắc Ý &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/15-khac-y.md)

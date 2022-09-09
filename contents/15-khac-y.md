@@ -72,4 +72,4 @@ chí tiết, thánh nhân trọng tinh thần. Cho nên chất phác là giữ �
 không tạp, thuần khiết là giữ cho tinh thần không hao tổn. Bậc chân nhân hiểu
 được lẽ chất phác và thuần khiết.
 
-[Thiên 16: Thiên Tính](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/16-thien-tinh.md)
+[Thiên 16: Thiên Tính](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/16-thien-tinh.md)

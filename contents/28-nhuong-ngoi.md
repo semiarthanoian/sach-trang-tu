@@ -291,4 +291,4 @@ mà đề cao mình, không lợi dụng thời cơ mà mưu tư lợi cho mình
 
 Nói rồi, hai ông ấy lên phía Bắc, ở ẩn trong núi Thú Dương.
 
-[Thiên 29: Đạo Chích &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/29-dao-chich.md)
+[Thiên 29: Đạo Chích &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/29-dao-chich.md)

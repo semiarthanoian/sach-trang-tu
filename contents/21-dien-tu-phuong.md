@@ -268,4 +268,4 @@ núi Thái Sơn mà không bị trở ngại, xuống vực sâu mà không bị
 hèn mà không khốn khổ, tinh thần tràn ngập khắp trời đất, càng cho người thì
 mình càng có nhiều thêm."
 
-[Thiên 22: Trí Bắc Du &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/22-tri-bac-du.md)
+[Thiên 22: Trí Bắc Du &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/22-tri-bac-du.md)

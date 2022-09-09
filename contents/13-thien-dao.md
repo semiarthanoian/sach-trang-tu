@@ -257,4 +257,4 @@ vừa với tay mình và hợp với lòng mình. Không diễn ra được, c�
 những điều họ không thể truyền lại được nay đã chết hết rồi, sách nhà vua đọc đó
 chỉ là cặn bã của cổ nhân thôi."
 
-[Thiên 14: Thiên Vận &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/14-thien-van.md)
+[Thiên 14: Thiên Vận &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/14-thien-van.md)

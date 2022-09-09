@@ -268,4 +268,4 @@ miền đó.' Khi dạo chơi ở Điêu Lăng, ta quên mất thân ta, cũng n
 kì dị kia bay sát trán ta để lại cây giẻ mà quên mất thân nó. Người giữ vườn
 tưởng ta ăn trôm giẻ. Vì vậy mà ta không vui."
 
-[Thiên 21: Điền Tử Phương &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/21-dien-tu-phuong.md)
+[Thiên 21: Điền Tử Phương &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/21-dien-tu-phuong.md)

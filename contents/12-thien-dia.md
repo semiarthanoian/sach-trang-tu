@@ -352,4 +352,4 @@ buộc hình hài, mà nội tâm thì bị tắc nghẽn, rào kín, như thể
 buộc cũng có thể cho là đắc ý được; mà bọn tội nhân bị trói tay cột chân, các
 con hổ con báo bị nhốt trong chuồng, cũng có thể tự coi là đắc ý nữa.
 
-[Thiên 13: Thiên Đạo &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/13-thien-dao.md)
+[Thiên 13: Thiên Đạo &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/13-thien-dao.md)

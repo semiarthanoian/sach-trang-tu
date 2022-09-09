@@ -301,4 +301,4 @@ không được cho! Vậy đã chẳng được thanh danh, cũng chẳng đư�
 cả tinh thần, sinh lực ra để tranh giành mà rốt cuộc lại khổ như vậy, chẳng phải
 là mê hoặc ư?"
 
-[Thiên 30: Thuyết Kiếm &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/30-thuyet-kiem.md)
+[Thiên 30: Thuyết Kiếm &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/30-thuyet-kiem.md)

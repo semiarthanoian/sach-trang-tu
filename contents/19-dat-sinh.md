@@ -268,4 +268,4 @@ chí nhân giảng cho hắn thì không khác gì dùng xe ngựa để chở m
 hoặc nổi chuông trống mà tấu nhạc cho chim 'án' nghe. Làm sao những con vật đó
 không hoảng sợ cho được?"
 
-[Thiên 20: Sơn Mộc &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/20-son-moc.md)
+[Thiên 20: Sơn Mộc &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/20-son-moc.md)

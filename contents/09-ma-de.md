@@ -63,4 +63,4 @@ người cho ngay ngắn, đề cao nhân nghĩa để vỗ về nhân tâm. T�
 tận lực dùng trí xảo, tranh nhau lợi lộc, không làm sao ngăn được nữa, đó là tội
 của thánh nhân.
 
-[Thiên 10: Khư Khiếp &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/10-khu-khiep.md)
+[Thiên 10: Khư Khiếp &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/10-khu-khiep.md)

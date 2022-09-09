@@ -145,4 +145,4 @@ cả, tụi mình thử đục cho ảnh có đủ lỗ đi”.
 
 Thế là mỗi ngày họ đục một lỗ, tới ngày thứ 7, Hỗn Độn chết.
 
-[Thiên 8: Biền Mẫu &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/08-bien-mau.md)
+[Thiên 8: Biền Mẫu &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/08-bien-mau.md)

@@ -227,4 +227,4 @@ thêm cho đời sống cả."
 cây mà biện luận, gục vào cái án mà ngủ. Trời cho ông hình hài mà ông dùng nó để
 phiếm luận về Cứng và Trắng."
 
-[Thiên 6: Đại Tôn Sư &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/06-dai-ton-su.md)
+[Thiên 6: Đại Tôn Sư &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/06-dai-ton-su.md)

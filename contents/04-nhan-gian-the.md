@@ -330,4 +330,4 @@ Cây trên núi tự rước lấy búa rìu vào thân; mỡ tự dẫn lửa n
 ăn được nên bị lột vỏ, cây sơn nhựa dùng được nên bị rạch vỏ. Ai cũng biết chỗ
 dùng được của vật hữu dụng, mà không biết chỗ dùng được của cái vô dụng.
 
-[Thiên 5: Đức Sung Phù &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/05-duc-sung-phu.md)
+[Thiên 5: Đức Sung Phù &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/05-duc-sung-phu.md)

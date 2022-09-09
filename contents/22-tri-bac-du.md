@@ -329,4 +329,4 @@ mà không biết cái ta không gặp; ta làm được những cái ta làm đ
 thì không dùng hành vi. Đem cái mình biết mà bao quát tất cả những cái mình
 không biết, ấy là thiển cận.
 
-[Thiên 23: Cang Tang Sở &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/23-cang-tang-so.md)
+[Thiên 23: Cang Tang Sở &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/23-cang-tang-so.md)

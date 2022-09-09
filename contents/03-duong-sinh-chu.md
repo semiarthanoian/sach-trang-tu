@@ -74,4 +74,4 @@ lòng. Người xưa bảo như vậy là được Trời giải phóng cho."
 
 Hết thanh củi này tới thanh củi khác, lửa vẫn lan tới vô cùng.
 
-[Thiên 4: Nhân Gian Thế &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/04-nhan-gian-the.md)
+[Thiên 4: Nhân Gian Thế &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/04-nhan-gian-the.md)

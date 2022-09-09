@@ -113,4 +113,4 @@ thiên lệch, lạc lối hết.
 Tôi xấu hổ vì Đạo Đức kém, nhưng tôi không dám lạm dụng điều nhân nghĩa mà cũng
 không dám có những hành vi thác loạn, bậy bạ.
 
-[Thiên 9: Mã Đề &rarr;](https://github.com/thaicuc/sach-trang-tu/blob/master/contents/09-ma-de.md)
+[Thiên 9: Mã Đề &rarr;](https://github.com/semiarthanoian/sach-trang-tu/blob/master/contents/09-ma-de.md)
